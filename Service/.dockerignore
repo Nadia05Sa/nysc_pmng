@@ -1,0 +1,7 @@
+.gradle
+build
+.idea
+.git
+.vscode
+*.md
+src/test
